@@ -1,0 +1,24 @@
+/* Program Sections gallery */
+
+.bg-one{
+    background-image: 
+    linear-gradient(45deg, rgba(0,0,0,0.7), rgba(0,0,0,0.1)), url(./Images/2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-two{
+    background-image: 
+    linear-gradient(45deg, rgba(0,0,0,0.7), rgba(0,0,0,0.1)), url(./Images/3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-three{
+    background-image: 
+    linear-gradient(45deg, rgba(0,0,0,0.7), rgba(0,0,0,0.1)), url(./Images/4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
